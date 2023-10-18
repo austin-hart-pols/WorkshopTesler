@@ -50,3 +50,8 @@
   plot(ft.unions ~ resent.index, df)
     abline(m1, col = 'mediumorchid', lw = 2) # plot with linear fit
     
+  #+ I have two continuous vars. I need regression analysis.
+  #+ I find a negative relationship: as resentment scores increase, average
+  #+ ratings of labor unions become more cold/negative. The regression estimate
+  #+ shows that a 1-point increase in resentment is expected to reduce union
+  #+ ratings by 36 points. The effect is significant at 5%.
