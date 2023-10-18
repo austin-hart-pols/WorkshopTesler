@@ -42,10 +42,10 @@ Open a new script in RStudio. As with every script, start by loading the package
 
 ## Assessing relationships
 
-8. Evaluate the association between anti-black resentment (exposure variable) and attitudes about labor unions.  
-    a. Estimate the linear regression of labor-union sentiment (Y) on resentment (X).
-    b. Present a scatter plot of the relationship with linear fit. 
-    c. In a short paragraph of text, describe the estimated relationship.
+8. Evaluate the association between anti-black resentment (exposure variable) and attitudes about labor unions.   
+    - Estimate the linear regression of labor-union sentiment (Y) on resentment (X).
+    - Present a scatter plot of the relationship with linear fit. 
+    - In a short paragraph of text, describe the estimated relationship.
 
 EXTRA CREDIT: repeat the analysis in question 8 above for another continous outcome variable of your choosing. Post your work on Canvas. 
 
